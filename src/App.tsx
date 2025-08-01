@@ -1,7 +1,7 @@
-import {Header} from "./components/header"
 import {Footer} from "./components/Footer"
 import {Sidebar} from "./components/Sidebar"
 import {Task} from "./components/Task"
+import {Header} from "./components/Header"
 
 function App() {
   return (
